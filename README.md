@@ -15,6 +15,12 @@ sum = num1 + num2
 print("La suma de los 2 numeros es: ",sum)
 ```
 
+<h3> Lists </h3>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <h3> Images </h3>
 
 [Foto de octocat](https://myoctocat.com/assets/images/base-octocat.svg)
